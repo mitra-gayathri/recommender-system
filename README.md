@@ -11,3 +11,5 @@ This project implements a content-based recommender system using Python.
 - Python
 - Pandas
 - Scikit-learn
+## Live Demo
+🔗 https://mitra-gayathri-recommender-system.streamlit.app
